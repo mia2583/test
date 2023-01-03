@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("Hello, Introduction to UNIX Programming\n");
-	printf("Testing\n");
+	printf("Hello, Introduction to UNIX Programming\n")
 	return 0;
 }
